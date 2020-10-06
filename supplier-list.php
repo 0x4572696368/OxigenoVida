@@ -104,166 +104,7 @@ OXICUSCO, somos una empresa dedicada a. “La producción, comercialización y d
                                 </ul>
                             </div>
                         </article>
-                        <!-- <article class="blog_item">
-                            <div class="blog_item_img">
-                                <img class="card-img rounded-0" src="img/blog/single_blog_1.png" alt="">
-
-                            </div>
-                            <div class="blog_details">
-                                <a class="d-inline-block" href="#">
-                                    <h2>Empresa 1 afgiliada</h2>
-                                </a>
-                                <p>lorm10 jwerhtuwehwehuiewhtiuwehtiueh iu woeroiwejh rioweior 8ow ueroiwe uroiwe
-                                    urioweurioweuroi uweoiruo</p>
-                                <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> 100% Verificada</a></li>
-                                    <li><a href="#"><i class="fa fa-comments"></i> 130 contactos</a></li>
-                                </ul>
-                            </div>
-                        </article>
-                        <article class="blog_item">
-                            <div class="blog_item_img">
-                                <img class="card-img rounded-0" src="img/blog/single_blog_1.png" alt="">
-
-                            </div>
-                            <div class="blog_details">
-                                <a class="d-inline-block" href="#">
-                                    <h2>Empresa 1 afgiliada</h2>
-                                </a>
-                                <p>lorm10 jwerhtuwehwehuiewhtiuwehtiueh iu woeroiwejh rioweior 8ow ueroiwe uroiwe
-                                    urioweurioweuroi uweoiruo</p>
-                                <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> 100% Verificada</a></li>
-                                    <li><a href="#"><i class="fa fa-comments"></i> 130 contactos</a></li>
-                                </ul>
-                            </div>
-                        </article>
-                        <article class="blog_item">
-                            <div class="blog_item_img">
-                                <img class="card-img rounded-0" src="img/blog/single_blog_1.png" alt="">
-
-                            </div>
-                            <div class="blog_details">
-                                <a class="d-inline-block" href="#">
-                                    <h2>Empresa 1 afgiliada</h2>
-                                </a>
-                                <p>lorm10 jwerhtuwehwehuiewhtiuwehtiueh iu woeroiwejh rioweior 8ow ueroiwe uroiwe
-                                    urioweurioweuroi uweoiruo</p>
-                                <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> 100% Verificada</a></li>
-                                    <li><a href="#"><i class="fa fa-comments"></i> 130 contactos</a></li>
-                                </ul>
-                            </div>
-                        </article> -->
-
-                        <!-- <article class="blog_item">
-                            <div class="blog_item_img">
-                                <img class="card-img rounded-0" src="img/blog/single_blog_2.png" alt="">
-                                <a href="#" class="blog_item_date">
-                                    <h3>15</h3>
-                                    <p>Jan</p>
-                                </a>
-                            </div>
-
-                            <div class="blog_details">
-                                <a class="d-inline-block" href="#">
-                                    <h2>Google inks pact for new 35-storey office</h2>
-                                </a>
-                                <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                    he earth it first without heaven in place seed it second morning saying.</p>
-                                <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                    <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
-                                </ul>
-                            </div>
-                        </article>
-
-                        <article class="blog_item">
-                            <div class="blog_item_img">
-                                <img class="card-img rounded-0" src="img/blog/single_blog_3.png" alt="">
-                                <a href="#" class="blog_item_date">
-                                    <h3>15</h3>
-                                    <p>Jan</p>
-                                </a>
-                            </div>
-
-                            <div class="blog_details">
-                                <a class="d-inline-block" href="#">
-                                    <h2>Google inks pact for new 35-storey office</h2>
-                                </a>
-                                <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                    he earth it first without heaven in place seed it second morning saying.</p>
-                                <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                    <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
-                                </ul>
-                            </div>
-                        </article>
-
-                        <article class="blog_item">
-                            <div class="blog_item_img">
-                                <img class="card-img rounded-0" src="img/blog/single_blog_4.png" alt="">
-                                <a href="#" class="blog_item_date">
-                                    <h3>15</h3>
-                                    <p>Jan</p>
-                                </a>
-                            </div>
-
-                            <div class="blog_details">
-                                <a class="d-inline-block" href="#">
-                                    <h2>Google inks pact for new 35-storey office</h2>
-                                </a>
-                                <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                    he earth it first without heaven in place seed it second morning saying.</p>
-                                <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                    <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
-                                </ul>
-                            </div>
-                        </article>
-
-                        <article class="blog_item">
-                            <div class="blog_item_img">
-                                <img class="card-img rounded-0" src="img/blog/single_blog_5.png" alt="">
-                                <a href="#" class="blog_item_date">
-                                    <h3>15</h3>
-                                    <p>Jan</p>
-                                </a>
-                            </div>
-
-                            <div class="blog_details">
-                                <a class="d-inline-block" href="#">
-                                    <h2>Google inks pact for new 35-storey office</h2>
-                                </a>
-                                <p>That dominion stars lights dominion divide years for fourth have don't stars is that
-                                    he earth it first without heaven in place seed it second morning saying.</p>
-                                <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
-                                    <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
-                                </ul>
-                            </div>
-                        </article> -->
-
-                        <!-- <nav class="blog-pagination justify-content-center d-flex">
-                            <ul class="pagination">
-                                <li class="page-item">
-                                    <a href="#" class="page-link" aria-label="Previous">
-                                        <i class="ti-angle-left"></i>
-                                    </a>
-                                </li>
-                                <li class="page-item">
-                                    <a href="#" class="page-link">1</a>
-                                </li>
-                                <li class="page-item active">
-                                    <a href="#" class="page-link">2</a>
-                                </li>
-                                <li class="page-item">
-                                    <a href="#" class="page-link" aria-label="Next">
-                                        <i class="ti-angle-right"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                        </nav> -->
+                        
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -290,40 +131,35 @@ OXICUSCO, somos una empresa dedicada a. “La producción, comercialización y d
                             <ul class="list cat-list">
                                 <li>
                                     <a href="#" class="d-flex">
-                                        <p>Ventas por mayor</p>
+                                        <p>Proveedores de Oxigeno</p>
                                         <p>(37)</p>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="d-flex">
-                                        <p>Contacto directo</p>
+                                        <p>Lista de balones</p>
                                         <p>(10)</p>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="d-flex">
-                                        <p>xxxxxxxxxxxxxxxxxxxx</p>
+                                        <p>Lista valvulas</p>
                                         <p>(03)</p>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="d-flex">
-                                        <p>productos</p>
+                                        <p>Lista Centro de atencion 24Horas</p>
                                         <p>(11)</p>
-                                    </a>
-                                </li>
-                                <!-- <li>
-                                    <a href="#" class="d-flex">
-                                        <p>Inspiration</p>
-                                        <p>21</p>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="d-flex">
-                                        <p>Health Care (21)</p>
-                                        <p>09</p>
+                                        <p>Ofertas de Oxigenos</p>
+                                        <p>21</p>
                                     </a>
-                                </li> -->
+                                </li>
+                                
                             </ul>
                         </aside>
 <!-- 
