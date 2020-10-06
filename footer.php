@@ -26,7 +26,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <i class="fa fa-instagram"></i>
+                                        <i class="ti-instagram"></i>
                                     </a>
                                 </li>
                             </ul>
@@ -41,11 +41,11 @@
                             Acceso
                         </h3>
                         <ul>
-                            <li><a href="#">Nosotros</a></li>
+                            <li><a href="about.php">Nosotros</a></li>
                             <li><a href="#">Servicios</a></li>
                             <li><a href="#">Ofertas</a></li>
-                            <li><a href="#"> Afiliados</a></li>
-                            <li><a href="#"> Contactanos</a></li>
+                            <li><a href="supplier-list.php"> Afiliados</a></li>
+                            <li><a href="contact.php"> Contactanos</a></li>
                         </ul>
                     </div>
                 </div>
@@ -55,7 +55,7 @@
                             Direccion
                         </h3>
                         <p>
-                            La casa de Hovert, OxigenoVida Ubicado en Peru <br>
+                        Jiron. Alfonso Nº433 - Mira flores <br>
                             <br>
 
                         </p>
@@ -73,7 +73,7 @@
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         Copyright &copy;<script>
                         document.write(new Date().getFullYear());
-                        </script> All rights reserved | This template is made with <i class="fa fa-heart-o"
+                        </script> All rights reserved <i class="fa fa-heart-o"
                             aria-hidden="true"></i> by <a href="#" target="_blank">UCH-EquipoWeb</a>
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                     </p>
