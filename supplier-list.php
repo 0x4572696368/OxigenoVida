@@ -57,11 +57,60 @@
 
                         <article class="blog_item">
                             <div class="blog_item_img">
+                                <img class="card-img rounded-0" src="img/balon.jpg" alt="">
+
+                            </div>
+                            <div class="blog_details">
+                                <a class="d-inline-block" href="#">
+                                    <h2>Femesa oxigeno medicinal</h2>
+                                </a>
+                                <p>Más acerca de Femesa Oxigeno Medicinal. - Equipos estacionarios para el hogar, portátiles para viajes. - Aspiradores, concentradores, pulsioxímetros, gases.</p>
+                                <ul class="blog-info-link">
+                                    <li><a href="#"><i class="fa fa-user"></i> 100% Verificada</a></li>
+                                    <li><a href="#"><i class="fa fa-comments"></i> 20 contactos</a></li>
+                                </ul>
+                            </div>
+                        </article>
+                        <article class="blog_item">
+                            <div class="blog_item_img">
+                                <img class="card-img rounded-0" src="img/balon2.jpg" alt="">
+
+                            </div>
+                            <div class="blog_details">
+                                <a class="d-inline-block" href="#">
+                                    <h2>Oxigeno Romero</h2>
+                                </a>
+                                <p>Mario Romero Pérez mantenía el precio del metro cúbico del oxígeno a S/ 15. El hombre de 62 años estuvo varios días en cuidados intensivos</p>
+                                <ul class="blog-info-link">
+                                    <li><a href="#"><i class="fa fa-user"></i> 100% Verificada</a></li>
+                                    <li><a href="#"><i class="fa fa-comments"></i> 120 contactos</a></li>
+                                </ul>
+                            </div>
+                        </article>
+                        <article class="blog_item">
+                            <div class="blog_item_img">
+                                <img class="card-img rounded-0" src="img/balon3.jpg" alt="">
+
+                            </div>
+                            <div class="blog_details">
+                                <a class="d-inline-block" href="#">
+                                    <h2>Oxicusco</h2>
+                                </a>
+                                <p>
+OXICUSCO, somos una empresa dedicada a. “La producción, comercialización y distribución de Oxishot, oxigeno medicinal e industrial</p>
+                                <ul class="blog-info-link">
+                                    <li><a href="#"><i class="fa fa-user"></i> 100% Verificada</a></li>
+                                    <li><a href="#"><i class="fa fa-comments"></i> 10 contactos</a></li>
+                                </ul>
+                            </div>
+                        </article>
+                        <!-- <article class="blog_item">
+                            <div class="blog_item_img">
                                 <img class="card-img rounded-0" src="img/blog/single_blog_1.png" alt="">
 
                             </div>
                             <div class="blog_details">
-                                <a class="d-inline-block" href="single-blog.html">
+                                <a class="d-inline-block" href="#">
                                     <h2>Empresa 1 afgiliada</h2>
                                 </a>
                                 <p>lorm10 jwerhtuwehwehuiewhtiuwehtiueh iu woeroiwejh rioweior 8ow ueroiwe uroiwe
@@ -78,7 +127,7 @@
 
                             </div>
                             <div class="blog_details">
-                                <a class="d-inline-block" href="single-blog.html">
+                                <a class="d-inline-block" href="#">
                                     <h2>Empresa 1 afgiliada</h2>
                                 </a>
                                 <p>lorm10 jwerhtuwehwehuiewhtiuwehtiueh iu woeroiwejh rioweior 8ow ueroiwe uroiwe
@@ -95,7 +144,7 @@
 
                             </div>
                             <div class="blog_details">
-                                <a class="d-inline-block" href="single-blog.html">
+                                <a class="d-inline-block" href="#">
                                     <h2>Empresa 1 afgiliada</h2>
                                 </a>
                                 <p>lorm10 jwerhtuwehwehuiewhtiuwehtiueh iu woeroiwejh rioweior 8ow ueroiwe uroiwe
@@ -105,58 +154,7 @@
                                     <li><a href="#"><i class="fa fa-comments"></i> 130 contactos</a></li>
                                 </ul>
                             </div>
-                        </article>
-                        <article class="blog_item">
-                            <div class="blog_item_img">
-                                <img class="card-img rounded-0" src="img/blog/single_blog_1.png" alt="">
-
-                            </div>
-                            <div class="blog_details">
-                                <a class="d-inline-block" href="single-blog.html">
-                                    <h2>Empresa 1 afgiliada</h2>
-                                </a>
-                                <p>lorm10 jwerhtuwehwehuiewhtiuwehtiueh iu woeroiwejh rioweior 8ow ueroiwe uroiwe
-                                    urioweurioweuroi uweoiruo</p>
-                                <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> 100% Verificada</a></li>
-                                    <li><a href="#"><i class="fa fa-comments"></i> 130 contactos</a></li>
-                                </ul>
-                            </div>
-                        </article>
-                        <article class="blog_item">
-                            <div class="blog_item_img">
-                                <img class="card-img rounded-0" src="img/blog/single_blog_1.png" alt="">
-
-                            </div>
-                            <div class="blog_details">
-                                <a class="d-inline-block" href="single-blog.html">
-                                    <h2>Empresa 1 afgiliada</h2>
-                                </a>
-                                <p>lorm10 jwerhtuwehwehuiewhtiuwehtiueh iu woeroiwejh rioweior 8ow ueroiwe uroiwe
-                                    urioweurioweuroi uweoiruo</p>
-                                <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> 100% Verificada</a></li>
-                                    <li><a href="#"><i class="fa fa-comments"></i> 130 contactos</a></li>
-                                </ul>
-                            </div>
-                        </article>
-                        <article class="blog_item">
-                            <div class="blog_item_img">
-                                <img class="card-img rounded-0" src="img/blog/single_blog_1.png" alt="">
-
-                            </div>
-                            <div class="blog_details">
-                                <a class="d-inline-block" href="single-blog.html">
-                                    <h2>Empresa 1 afgiliada</h2>
-                                </a>
-                                <p>lorm10 jwerhtuwehwehuiewhtiuwehtiueh iu woeroiwejh rioweior 8ow ueroiwe uroiwe
-                                    urioweurioweuroi uweoiruo</p>
-                                <ul class="blog-info-link">
-                                    <li><a href="#"><i class="fa fa-user"></i> 100% Verificada</a></li>
-                                    <li><a href="#"><i class="fa fa-comments"></i> 130 contactos</a></li>
-                                </ul>
-                            </div>
-                        </article>
+                        </article> -->
 
                         <!-- <article class="blog_item">
                             <div class="blog_item_img">
@@ -168,7 +166,7 @@
                             </div>
 
                             <div class="blog_details">
-                                <a class="d-inline-block" href="single-blog.html">
+                                <a class="d-inline-block" href="#">
                                     <h2>Google inks pact for new 35-storey office</h2>
                                 </a>
                                 <p>That dominion stars lights dominion divide years for fourth have don't stars is that
@@ -190,7 +188,7 @@
                             </div>
 
                             <div class="blog_details">
-                                <a class="d-inline-block" href="single-blog.html">
+                                <a class="d-inline-block" href="#">
                                     <h2>Google inks pact for new 35-storey office</h2>
                                 </a>
                                 <p>That dominion stars lights dominion divide years for fourth have don't stars is that
@@ -212,7 +210,7 @@
                             </div>
 
                             <div class="blog_details">
-                                <a class="d-inline-block" href="single-blog.html">
+                                <a class="d-inline-block" href="#">
                                     <h2>Google inks pact for new 35-storey office</h2>
                                 </a>
                                 <p>That dominion stars lights dominion divide years for fourth have don't stars is that
@@ -234,7 +232,7 @@
                             </div>
 
                             <div class="blog_details">
-                                <a class="d-inline-block" href="single-blog.html">
+                                <a class="d-inline-block" href="#">
                                     <h2>Google inks pact for new 35-storey office</h2>
                                 </a>
                                 <p>That dominion stars lights dominion divide years for fourth have don't stars is that
@@ -334,7 +332,7 @@
                             <div class="media post_item">
                                 <img src="img/post/post_1.png" alt="post">
                                 <div class="media-body">
-                                    <a href="single-blog.html">
+                                    <a href="#">
                                         <h3>From life was you fish...</h3>
                                     </a>
                                     <p>January 12, 2019</p>
@@ -343,7 +341,7 @@
                             <div class="media post_item">
                                 <img src="img/post/post_2.png" alt="post">
                                 <div class="media-body">
-                                    <a href="single-blog.html">
+                                    <a href="#">
                                         <h3>The Amazing Hubble</h3>
                                     </a>
                                     <p>02 Hours ago</p>
@@ -352,7 +350,7 @@
                             <div class="media post_item">
                                 <img src="img/post/post_3.png" alt="post">
                                 <div class="media-body">
-                                    <a href="single-blog.html">
+                                    <a href="#">
                                         <h3>Astronomy Or Astrology</h3>
                                     </a>
                                     <p>03 Hours ago</p>
@@ -361,7 +359,7 @@
                             <div class="media post_item">
                                 <img src="img/post/post_4.png" alt="post">
                                 <div class="media-body">
-                                    <a href="single-blog.html">
+                                    <a href="#">
                                         <h3>Asteroids telescope</h3>
                                     </a>
                                     <p>01 Hours ago</p>

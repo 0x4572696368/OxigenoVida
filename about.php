@@ -43,8 +43,8 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="bradcam_text">
-                        <h3>QUIENES SOMOS</h3>
-                        <p><a href="index.html">Home /</a> Quienes somos</p>
+                        <h3>NOSOTROS</h3>
+                        <p><a href="index.html">Home /</a> Nosotros</p>
                     </div>
                 </div>
             </div>
@@ -60,28 +60,29 @@
                 <div class="col-xl-6 col-lg-6">
                     <div class="welcome_thumb">
                         <div class="thumb_1">
-                            <img src="img/about/1.png" alt="">
+                            <img src="img/about/1.png" alt="" title="Balones de oxigeno">
                         </div>
                         <div class="thumb_2">
-                            <img src="img/about/2.png" alt="">
+                            <img src="img/about/2.png" alt="" title="Salvamos vidas">
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6">
                     <div class="welcome_docmed_info">
-                        <h2>Welcome to Docmed</h2>
-                        <h3>Best Care For Your <br>
-                            Good Health</h3>
-                        <p>Esteem spirit temper too say adieus who direct esteem.
-                            It esteems luckily or picture placing drawing. Apartments frequently or motionless on
-                            reasonable projecting expression.</p>
+                        <h2>Bienvenida a OxigenoVida</h2>
+                        <h3>El mejor cuidado para<br> su
+                            Buena salud</h3>
+                        <p>El temperamento del espíritu de estima también dice adiós que dirigen la estima.
+                            Se estima por suerte o dibujo de colocación de cuadros. Apartamentos frecuentes o inmóviles
+                            en
+                            Expresión de proyección razonable.</p>
                         <ul>
-                            <li> <i class="flaticon-right"></i> Apartments frequently or motionless. </li>
-                            <li> <i class="flaticon-right"></i> Duis aute irure dolor in reprehenderit in voluptate.
+                            <li> <i class="flaticon-right"></i> Estamos salvando vidas con precios competitivos </li>
+                            <li> <i class="flaticon-right"></i> Busca oxigeno en tu localidad.
                             </li>
-                            <li> <i class="flaticon-right"></i> Voluptatem quia voluptas sit aspernatur. </li>
+                            <li> <i class="flaticon-right"></i> Todos los proveedores de oxigeno en un solo lugar </li>
                         </ul>
-                        <a href="#" class="boxed-btn3-white-2">Learn More</a>
+                        <!-- <a href="#" class="boxed-btn3-white-2">Learn More</a> -->
                     </div>
                 </div>
             </div>
@@ -90,7 +91,7 @@
     <!-- welcome_docmed_area_end -->
 
     <!-- testmonial_area_start -->
-    <div class="testmonial_area">
+    <!-- <div class="testmonial_area">
         <div class="testmonial_active owl-carousel">
             <div class="single-testmonial testmonial_bg_1 overlay2">
                 <div class="container">
@@ -156,118 +157,14 @@
                 </div>
             </div>
         </div>
+    </div> -->
+
+
     </div>
-    <!-- testmonial_area_end -->
-
-    <!-- business_expert_area_start  -->
-    <!-- <div class="business_expert_area">
-        <div class="business_tabs_area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12">
-                        <ul class="nav" id="myTab" role="tablist">
-                            <li class="nav-item">
-                                <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab"
-                                    aria-controls="home" aria-selected="true">Excellent Services</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab"
-                                    aria-controls="profile" aria-selected="false">Qualified Doctors</a>
-                            </li>
-
-
-                            <li class="nav-item">
-                                <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab"
-                                    aria-controls="contact" aria-selected="false">Emergency Departments</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
-            </div>
-        </div> -->
-
-
-        <!-- <div class="container">
-            <div class="border_bottom">
-                <div class="tab-content" id="myTabContent">
-                    <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-
-                        <div class="row align-items-center">
-                            <div class="col-xl-6 col-md-6">
-                                <div class="business_info">
-                                    <div class="icon">
-                                        <i class="flaticon-first-aid-kit"></i>
-                                    </div>
-                                    <h3>Leading edge care for Your family</h3>
-                                    <p>Esteem spirit temper too say adieus who direct esteem.
-                                        It esteems luckily picture placing drawing. Apartments frequently or motionless
-                                        on
-                                        reasonable projecting expression.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="col-xl-6 col-md-6">
-                                <div class="business_thumb">
-                                    <img src="img/about/business.png" alt="">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-                        <div class="row align-items-center">
-                            <div class="col-xl-6 col-md-6">
-                                <div class="business_info">
-                                    <div class="icon">
-                                        <i class="flaticon-first-aid-kit"></i>
-                                    </div>
-                                    <h3>Leading edge care for Your family</h3>
-                                    <p>Esteem spirit temper too say adieus who direct esteem.
-                                        It esteems luckily picture placing drawing. Apartments frequently or motionless
-                                        on
-                                        reasonable projecting expression.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="col-xl-6 col-md-6">
-                                <div class="business_thumb">
-                                    <img src="img/about/business.png" alt="">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-                        <div class="row align-items-center">
-                            <div class="col-xl-6 col-md-6">
-                                <div class="business_info">
-                                    <div class="icon">
-                                        <i class="flaticon-first-aid-kit"></i>
-                                    </div>
-                                    <h3>Leading edge care for Your family</h3>
-                                    <p>Esteem spirit temper too say adieus who direct esteem.
-                                        It esteems luckily picture placing drawing. Apartments frequently or motionless
-                                        on
-                                        reasonable projecting expression.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="col-xl-6 col-md-6">
-                                <div class="business_thumb">
-                                    <img src="img/about/business.png" alt="">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
-    </div>
-    <!-- business_expert_area_end  -->
 
 
     <!-- expert_doctors_area_start -->
-    <div class="expert_doctors_area">
+    <!-- <div class="expert_doctors_area">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -337,7 +234,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- expert_doctors_area_end -->
 
     <!-- Emergency_contact start -->

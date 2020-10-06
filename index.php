@@ -125,12 +125,13 @@
                 <div class="col-xl-6 col-lg-6">
                     <div class="welcome_thumb">
                         <div class="thumb_1">
-                            <img src="img/about/1.png" alt="">
+                            <img src="img/about/1.png" alt="salvando vidas" title="salvando vidas">
                         </div>
                         <div class="thumb_2">
-                            <img src="img/about/2.png" alt="">
+                            <img src="img/about/2.png" alt="balones de oxigeno" title="balones de oxigeno">
                         </div>
                     </div>
+                   
                 </div>
                 <div class="col-xl-6 col-lg-6">
                     <div class="welcome_docmed_info">
@@ -145,6 +146,11 @@
 
                     </div>
                 </div>
+                <div class="col-md-12 text-center " style="padding-top: 150px">
+                    <h2>Oxigeno Medicinal</h2>
+                <iframe   width="100%" height="640px" src="https://www.youtube.com/embed/pSgyuFGzDtI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                </div>
             </div>
         </div>
     </div>
@@ -154,12 +160,12 @@
 
     <!-- footer end  -->
     <!-- link that opens popup -->
-    -->
+
     <!-- form itself end-->
     <form id="test-form" class="white-popup-block mfp-hide">
         <div class="popup_box ">
             <div class="popup_inner">
-                <h3>Make an Appointment</h3>
+                <h3>Haga una cita</h3>
                 <form action="#">
                     <div class="row">
                         <div class="col-xl-6">
@@ -231,22 +237,22 @@
 
     <script src="js/main.js"></script>
     <script>
-    $('#datepicker').datepicker({
-        iconsLibrary: 'fontawesome',
-        icons: {
-            rightIcon: '<span class="fa fa-caret-down"></span>'
-        }
-    });
-    $('#datepicker2').datepicker({
-        iconsLibrary: 'fontawesome',
-        icons: {
-            rightIcon: '<span class="fa fa-caret-down"></span>'
-        }
+    // $('#datepicker').datepicker({
+    //     iconsLibrary: 'fontawesome',
+    //     icons: {
+    //         rightIcon: '<span class="fa fa-caret-down"></span>'
+    //     }
+    // });
+    // $('#datepicker2').datepicker({
+    //     iconsLibrary: 'fontawesome',
+    //     icons: {
+    //         rightIcon: '<span class="fa fa-caret-down"></span>'
+    //     }
 
-    });
-    $(document).ready(function() {
-        $('.js-example-basic-multiple').select2();
-    });
+    // });
+    // $(document).ready(function() {
+    //     $('.js-example-basic-multiple').select2();
+    // });
     </script>
 </body>
 

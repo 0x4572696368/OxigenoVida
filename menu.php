@@ -32,7 +32,9 @@
                 <div class="row align-items-center">
                     <div class="col-xl-3 col-lg-2">
                         <div class="logo">
+                                   <a href="index.php">
                                     <img src="img/logo.png" alt="OxigenoVida" style="width: 250px;">
+                                   </a>
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-7">
@@ -40,8 +42,8 @@
                             <nav>
                                 <ul id="navigation">
                                     <li><a class="active" href="about.php">Nosotros</a></li>
-                                    <li><a href="#">Servicios</a></li>
-                                    <li><a href="#">Ofertas</i></a>
+                                    <!-- <li><a href="#">Servicios</a></li>
+                                    <li><a href="#">Ofertas</i></a> -->
 
                                     <li><a href="supplier-list.php">Afilidados</a></li>
                                     <li><a href="contact.php">Contactanos</a></li>
@@ -49,13 +51,13 @@
                             </nav>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-lg-3 d-none d-lg-block">
+                    <!-- <div class="col-xl-3 col-lg-3 d-none d-lg-block">
                         <div class="Appointment">
                             <div class="book_btn d-none d-lg-block">
                                 <a class="popup-with-form" href="#test-form">Acceso Libre</a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="col-12">
                         <div class="mobile_menu d-block d-lg-none"></div>
                     </div>
