@@ -75,9 +75,7 @@
                         <p>Se puede vivir sin amor pero no se puede vivir sin oxigeno</p>
 
                         <p>El temperamento del espíritu de estima también dice adiós que dirigen la estima.
-                            Se estima por suerte o dibujo de colocación de cuadros. Apartamentos frecuentes o inmóviles
-                            en
-                            Expresión de proyección razonable.</p>
+                            Se estima por suerte o dibujo de colocación de cuadros. </p>
                         <ul>
                             <li> <i class="flaticon-right"></i> Estamos salvando vidas con precios competitivos </li>
                             <li> <i class="flaticon-right"></i> Busca oxigeno en tu localidad.
@@ -88,8 +86,12 @@
                     </div>
                 </div>
             </div>
+            <br>
+            <br>
+            <br>
+            <br>
 
-            <h2>Encontrar Proovedores</h2>
+            <h2>Encontrar Proveedores</h2>
             <div id="map" style="height: 480px; position: relative; overflow: hidden;">
                     <!-- <div
                         style="height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; background-color: rgb(229, 227, 223);">
