@@ -39,7 +39,7 @@
                 <div class="col-xl-12">
                     <div class="bradcam_text">
                         <h3>EMPRESAS AFILIADAS</h3>
-                        <p><a href="index.html">Home /</a> Afiliados</p>
+                        <p><a href="index.php">Home /</a> Afiliados</p>
                     </div>
                 </div>
             </div>
@@ -57,7 +57,7 @@
 
                         <article class="blog_item">
                             <div class="blog_item_img">
-                                <img class="card-img rounded-0" src="img/balon.jpg" alt="">
+                                <img class="card-img rounded-0" src="img/balon.jpg" alt="Femesa oxigeno medicinal">
 
                             </div>
                             <div class="blog_details">
@@ -73,7 +73,7 @@
                         </article>
                         <article class="blog_item">
                             <div class="blog_item_img">
-                                <img class="card-img rounded-0" src="img/balon2.jpg" alt="">
+                                <img class="card-img rounded-0" src="img/balon2.jpg" alt="Oxigeno Romero">
 
                             </div>
                             <div class="blog_details">
@@ -89,7 +89,7 @@
                         </article>
                         <article class="blog_item">
                             <div class="blog_item_img">
-                                <img class="card-img rounded-0" src="img/balon3.jpg" alt="">
+                                <img class="card-img rounded-0" src="img/balon3.jpg" alt="Oxicusco">
 
                             </div>
                             <div class="blog_details">

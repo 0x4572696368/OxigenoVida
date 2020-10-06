@@ -41,7 +41,7 @@
                 <div class="col-xl-12">
                     <div class="bradcam_text">
                         <h3>CONTACTANOS</h3>
-                        <p><a href="index.html">Home /</a> Contactanos</p>
+                        <p><a href="index.php">Home /</a> Contactanos</p>
                     </div>
                 </div>
             </div>

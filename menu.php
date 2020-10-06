@@ -45,7 +45,7 @@
                                     <!-- <li><a href="#">Servicios</a></li>
                                     <li><a href="#">Ofertas</i></a> -->
 
-                                    <li><a href="supplier-list.php">Afilidados</a></li>
+                                    <li><a href="supplier-list.php">Afiliados</a></li>
                                     <li><a href="contact.php">Contactanos</a></li>
                                 </ul>
                             </nav>

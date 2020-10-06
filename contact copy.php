@@ -58,8 +58,8 @@
     <section class="contact-section">
         <div class="container">
             <div class="d-none d-sm-block">
-                <!-- <div id="map" style="height: 480px; position: relative; overflow: hidden;">
-                    <div
+                <div id="map" style="height: 480px; position: relative; overflow: hidden;">
+                    <!-- <div
                         style="height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; background-color: rgb(229, 227, 223);">
                         <div class="gm-style"
                             style="position: absolute; z-index: 0; left: 0px; top: 0px; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px;">
@@ -322,7 +322,8 @@
                                             draggable="false"
                                             style="position: absolute; left: 0px; top: 0px; width: 66px; height: 26px; user-select: none; border: 0px; padding: 0px; margin: 0px;">
                                     </div>
-                                </a></div>
+                                </a>
+                            </div>
                             <div
                                 style="background-color: white; padding: 15px 21px; border: 1px solid rgb(171, 171, 171); font-family: Roboto, Arial, sans-serif; color: rgb(34, 34, 34); box-sizing: border-box; box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 16px; z-index: 10000002; display: none; width: 300px; height: 180px; position: absolute; left: 315px; top: 150px;">
                                 <div style="padding: 0px 0px 10px; font-size: 16px; box-sizing: border-box;">Map Data
@@ -346,7 +347,8 @@
                                     <div
                                         style="position: relative; padding-right: 6px; padding-left: 6px; box-sizing: border-box; font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;">
                                         <a style="text-decoration: none; cursor: pointer; display: none;">Map
-                                            Data</a><span>Map data ©2019 Google</span></div>
+                                            Data</a><span>Map data ©2019 Google</span>
+                                    </div>
                                 </div>
                             </div>
                             <div class="gmnoscreen" style="position: absolute; right: 0px; bottom: 0px;">
@@ -367,7 +369,8 @@
                                     <a href="https://www.google.com/intl/en-US_US/help/terms_maps.html" target="_blank"
                                         rel="noopener"
                                         style="text-decoration: none; cursor: pointer; color: rgb(68, 68, 68);">Terms of
-                                        Use</a></div>
+                                        Use</a>
+                                </div>
                             </div><button draggable="false" title="Toggle fullscreen view"
                                 aria-label="Toggle fullscreen view" type="button"
                                 class="gm-control-active gm-fullscreen-control"
@@ -392,7 +395,8 @@
                                         title="Report errors in the road map or imagery to Google"
                                         href="https://www.google.com/maps/@-31.197,150.744,9z/data=!10m1!1e1!12b1?source=apiv3&amp;rapsrc=apiv3"
                                         style="font-family: Roboto, Arial, sans-serif; font-size: 10px; color: rgb(68, 68, 68); text-decoration: none; position: relative;">Report
-                                        a map error</a></div>
+                                        a map error</a>
+                                </div>
                             </div>
                             <div class="gmnoprint gm-bundled-control gm-bundled-control-on-bottom" draggable="false"
                                 controlwidth="40" controlheight="81"
@@ -447,7 +451,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <div
                         style="background-color: white; font-weight: 500; font-family: Roboto, sans-serif; padding: 15px 25px; box-sizing: border-box; top: 5px; border: 1px solid rgba(0, 0, 0, 0.12); border-radius: 5px; left: 50%; max-width: 375px; position: absolute; transform: translateX(-50%); width: calc(100% - 10px); z-index: 1;">
                         <div><img alt="" src="https://maps.gstatic.com/mapfiles/api-3/images/google_gray.svg"
@@ -468,12 +472,12 @@
                             </tr>
                         </table>
                     </div>
-                </div> -->
-                <!-- <script>
+                </div>
+                <script>
                 function initMap() {
                     var uluru = {
-                        lat: -25.363,
-                        lng: 131.044
+                        lat: -9.189967,
+                        lng: -75.015152
                     };
                     var grayStyles = [{
                             featureType: "all",
@@ -494,18 +498,49 @@
                     ];
                     var map = new google.maps.Map(document.getElementById('map'), {
                         center: {
-                            lat: -31.197,
-                            lng: 150.744
+                            lat: -12.058,
+                            lng: -77.101
                         },
-                        zoom: 9,
+                        zoom: 11,
                         styles: grayStyles,
                         scrollwheel: false
                     });
+
+
+                    const myLatLng = { lat: -12.0580674, lng: -77.1013543 };
+                    new google.maps.Marker({
+                        position: myLatLng,
+                        map,
+                        title: "Hello World!",
+                    });
+
+                    const myLatLng1 = { lat: -13.5295744, lng: -71.9601799 };
+                    new google.maps.Marker({
+                        position: myLatLng1,
+                        map,
+                        title: "Hello World!",
+                    });
+
+                    const myLatLng2 = { lat: -11.9601106, lng: -77.0759771 };
+                    new google.maps.Marker({
+                        position: myLatLng2,
+                        map,
+                        title: "Hello World!",
+                    });
+
+                    const myLatLng3 = { lat: -12.054415, lng: -76.9466993 };
+                    new google.maps.Marker({
+                        position: myLatLng3,
+                        map,
+                        title: "Hello World!",
+                    });
+
                 }
+ 
                 </script>
                 <script
                     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDpfS1oRGreGSBU5HHjMmQ3o5NLw7VdJ6I&amp;callback=initMap">
-                </script> -->
+                </script>
 
             </div>
 
@@ -515,8 +550,7 @@
                     <h2 class="contact-title">Ponerse en contacto</h2>
                 </div>
                 <div class="col-lg-8">
-                    <form class="form-contact contact_form" method="post" id="contactForm"
-                        novalidate="novalidate">
+                    <form class="form-contact contact_form" method="post" id="contactForm" novalidate="novalidate">
                         <div class="row">
                             <div class="col-12">
                                 <div class="form-group">
@@ -536,7 +570,8 @@
                                 <div class="form-group">
                                     <input class="form-control valid" name="email" id="email" type="email"
                                         onfocus="this.placeholder = ''"
-                                        onblur="this.placeholder = 'Enter email address'" placeholder="Correo electronico">
+                                        onblur="this.placeholder = 'Enter email address'"
+                                        placeholder="Correo electronico">
                                 </div>
                             </div>
                             <div class="col-12">
