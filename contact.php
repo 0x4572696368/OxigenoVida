@@ -43,8 +43,8 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="bradcam_text">
-                        <h3>contact</h3>
-                        <p><a href="index.html">Home /</a> contact</p>
+                        <h3>CONTACTANOS</h3>
+                        <p><a href="index.html">Home /</a> Contactanos</p>
                     </div>
                 </div>
             </div>
@@ -55,8 +55,8 @@
     <!-- ================ contact section start ================= -->
     <section class="contact-section">
         <div class="container">
-            <div class="d-none d-sm-block mb-5 pb-4">
-                <div id="map" style="height: 480px; position: relative; overflow: hidden;">
+            <div class="d-none d-sm-block">
+                <!-- <div id="map" style="height: 480px; position: relative; overflow: hidden;">
                     <div
                         style="height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; background-color: rgb(229, 227, 223);">
                         <div class="gm-style"
@@ -466,8 +466,8 @@
                             </tr>
                         </table>
                     </div>
-                </div>
-                <script>
+                </div> -->
+                <!-- <script>
                 function initMap() {
                     var uluru = {
                         lat: -25.363,
@@ -503,50 +503,50 @@
                 </script>
                 <script
                     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDpfS1oRGreGSBU5HHjMmQ3o5NLw7VdJ6I&amp;callback=initMap">
-                </script>
+                </script> -->
 
             </div>
 
 
             <div class="row">
                 <div class="col-12">
-                    <h2 class="contact-title">Get in Touch</h2>
+                    <h2 class="contact-title">Ponerse en contacto</h2>
                 </div>
                 <div class="col-lg-8">
-                    <form class="form-contact contact_form" action="contact_process.php" method="post" id="contactForm"
+                    <form class="form-contact contact_form" method="post" id="contactForm"
                         novalidate="novalidate">
                         <div class="row">
                             <div class="col-12">
                                 <div class="form-group">
                                     <textarea class="form-control w-100" name="message" id="message" cols="30" rows="9"
-                                        onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Message'"
-                                        placeholder=" Name"></textarea>
+                                        onfocus="this.placeholder = ''" onblur="this.placeholder = 'Escribe tu mensaje'"
+                                        placeholder="Escribe tu mensaje"></textarea>
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="form-group">
                                     <input class="form-control valid" name="name" id="name" type="text"
-                                        onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your name'"
-                                        placeholder="Enter your name">
+                                        onfocus="this.placeholder = ''" onblur="this.placeholder = 'Escribe tu nombre'"
+                                        placeholder="Escribe tu nombre">
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="form-group">
                                     <input class="form-control valid" name="email" id="email" type="email"
                                         onfocus="this.placeholder = ''"
-                                        onblur="this.placeholder = 'Enter email address'" placeholder="Email">
+                                        onblur="this.placeholder = 'Enter email address'" placeholder="Correo electronico">
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-group">
                                     <input class="form-control" name="subject" id="subject" type="text"
-                                        onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Subject'"
-                                        placeholder="Enter Subject">
+                                        onfocus="this.placeholder = ''" onblur="this.placeholder = 'Escriba el asuno'"
+                                        placeholder="Escriba el asuno">
                                 </div>
                             </div>
                         </div>
                         <div class="form-group mt-3">
-                            <button type="submit" class="button button-contactForm boxed-btn">Send</button>
+                            <button type="submit" class="button button-contactForm boxed-btn">Enviar</button>
                         </div>
                     </form>
                 </div>
@@ -554,22 +554,22 @@
                     <div class="media contact-info">
                         <span class="contact-info__icon"><i class="ti-home"></i></span>
                         <div class="media-body">
-                            <h3>Buttonwood, California.</h3>
-                            <p>Rosemead, CA 91770</p>
+                            <h3>Direccion</h3>
+                            <p>Av. Unknow Nº1243 - Los Olivos</p>
                         </div>
                     </div>
                     <div class="media contact-info">
                         <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                         <div class="media-body">
-                            <h3>+1 253 565 2365</h3>
-                            <p>Mon to Fri 9am to 6pm</p>
+                            <h3>+51 956 464 030</h3>
+                            <p>Lunes a viernes de 9 a.m. a 6 p.m.</p>
                         </div>
                     </div>
                     <div class="media contact-info">
                         <span class="contact-info__icon"><i class="ti-email"></i></span>
                         <div class="media-body">
-                            <h3>support@colorlib.com</h3>
-                            <p>Send us your query anytime!</p>
+                            <h3>support@oxigenovida.com</h3>
+                            <p>Envíanos tu consulta en cualquier momento!</p>
                         </div>
                     </div>
                 </div>
