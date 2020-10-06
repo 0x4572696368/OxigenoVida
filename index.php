@@ -32,6 +32,7 @@
     <!-- slider_area_start -->
     <div class="slider_area">
         <div class="slider_active owl-carousel">
+            
             <div class="single_slider  d-flex align-items-center slider_bg_2">
                 <div class="container">
                     <div class="row">
@@ -46,6 +47,7 @@
                     </div>
                 </div>
             </div>
+
             <div class="single_slider  d-flex align-items-center slider_bg_1">
                 <div class="container">
                     <div class="row">
@@ -60,6 +62,7 @@
                     </div>
                 </div>
             </div>
+
             <div class="single_slider  d-flex align-items-center slider_bg_2">
                 <div class="container">
                     <div class="row">
@@ -74,6 +77,7 @@
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
     <!-- slider_area_end -->
@@ -131,7 +135,7 @@
                             <img src="img/about/2.png" alt="balones de oxigeno" title="balones de oxigeno">
                         </div>
                     </div>
-                   
+
                 </div>
                 <div class="col-xl-6 col-lg-6">
                     <div class="welcome_docmed_info">
@@ -148,7 +152,9 @@
                 </div>
                 <div class="col-md-12 text-center " style="padding-top: 150px">
                     <h2>Oxigeno Medicinal</h2>
-                <iframe   width="100%" height="640px" src="https://www.youtube.com/embed/pSgyuFGzDtI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="100%" height="640px" src="https://www.youtube.com/embed/pSgyuFGzDtI" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
 
                 </div>
             </div>
